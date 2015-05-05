@@ -1,0 +1,1 @@
+This entire repository is licensed according to the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
